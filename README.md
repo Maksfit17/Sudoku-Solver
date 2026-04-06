@@ -7,4 +7,5 @@ python sudoku_solver.py
 
 ## Build .exe
 pip install pyinstaller
+
 pyinstaller --onefile --windowed sudoku_solver.py
